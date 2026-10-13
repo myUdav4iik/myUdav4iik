@@ -13,6 +13,7 @@ software developer, hardware/embedded tinkerer, apple enthusiast.
 
 **selected work**
 
+- [nfsu2-ios](https://github.com/myUdav4iik/nfsu2-ios) - NFS Underground2 port to ios and macos · C · Metal
 - [agent-canvas](https://github.com/myUdav4iik/agent-canvas) - visual multi-agent ai workflows · typescript
 - [claude-mods](https://github.com/myUdav4iik/claude-mods) - plugins for claude code · typescript
 - decklify - ios flashcards with spaced repetition · swift · <sub>private</sub>
